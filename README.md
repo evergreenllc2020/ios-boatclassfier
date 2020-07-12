@@ -1,8 +1,9 @@
 # ios-boat classifier
 
-Object detection using ios CoreML and resnet-50 model
+Object detection using ios CoreML and createml custom model for boat images
 
-[![Demo Object Detection](https://evergreenllc2020.github.io/img/od.gif)](https://youtu.be/5maoJWK7RaU)
+[![Demo Object Detection](https://evergreenllc2020.github.io/img/ios-boat.gif)](https://youtu.be/eDvmwR0N7dU)
 
-Step by Step video course : https://www.udemy.com/course/building-ios-object-detection-app-with-resnet-ml-model/?referralCode=AA41ECE92E2F5A0186FC
+Step by Step video course : Coming Soon
+
 
