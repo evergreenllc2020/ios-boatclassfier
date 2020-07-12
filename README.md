@@ -1,4 +1,4 @@
-# ios-resnet
+# ios-boat classifier
 
 Object detection using ios CoreML and resnet-50 model
 
